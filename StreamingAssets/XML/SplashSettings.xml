@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	
+	<BackgroundColor>
+		<r>0</r>
+		<g>0</g>
+		<b>0</b>
+		<a>255</a>
+	</BackgroundColor>
+	<SplashTime>2</SplashTime>
+	<FadeTime>1</FadeTime>
+
+</SettingsData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataForLocalization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	
+	<TitlePartUpText>CO JEST</TitlePartUpText>
+	<TitlePartDownText>CIĘŻSZE</TitlePartDownText>
+	
+	<WhatIsHeavierText>Co jest cięższe</WhatIsHeavierText>
+	<WhatIsLighterText>Co jest lżejsze</WhatIsLighterText>
+
+</DataForLocalization>
